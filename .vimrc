@@ -1,1 +1,0 @@
-/Users/water/.vimrc
