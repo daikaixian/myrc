@@ -1,3 +1,4 @@
+" It's the .vimrc file for Water.Dai
 " Show line numbers
 set nu
 
