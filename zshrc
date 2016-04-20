@@ -85,6 +85,10 @@ export LANG=en_US.UTF-8
 alias vi='vim'
 alias .='sh'
 alias c=clear
+alias ..='cd ../'
+alias ...='cd ../../'
+alias ....='cd ../../../'
+alias .....='cd ../../../../'
 
 #THIS MUST BE AT THE END OF THE FILE FOR JENV TO WORK!!!
 [[ -s "/Users/water/.jenv/bin/jenv-init.sh" ]] && source "/Users/water/.jenv/bin/jenv-init.sh" && source "/Users/water/.jenv/commands/completion.sh"
